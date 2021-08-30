@@ -12,6 +12,8 @@ console.log(firtsName);
 console.log(middleName);
 console.log(lastName); */
 
+
+
 const firstName = fullName.substring(0, fullName.indexOf(' '));
 console.log(`the first name of ${fullName} is _${firstName}_`);
 

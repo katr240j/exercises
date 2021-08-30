@@ -1,9 +1,9 @@
 "use strict";
 
-let navn = "katrin"; 
+let navn = "kATRIN"; 
  
 
-let nyNavn = navn[0].toUpperCase() + navn.substring(1); 
-
-console.log(nyNavn); 
+let upperName = navn[0].toUpperCase(); 
+let lowerName = navn.substring(1).toLowerCase();
+console.log(upperName+lowerName); 
 
