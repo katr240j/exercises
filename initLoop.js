@@ -16,7 +16,7 @@ function loop() {
     console.log('loop', iterator);
     iterator++;
 
-    if(iterator < maxNumberOfIterations)    {
+    if(iterator <= maxNumberOfIterations)    {
 setTimeout(loop,500);
     }
 }
