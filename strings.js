@@ -1,3 +1,5 @@
+//youtube video 2week
+
 /* "use strict";
 
 const longline = "A very, very , very, very ,very ,very, very,\
@@ -36,4 +38,5 @@ const lastName = fullName.substring(17);
 
 console.log(`firsname is: _${firstName}_`);
 console.log(`lastname is: _${lastName}_`);
+
 
