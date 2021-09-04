@@ -39,7 +39,22 @@ for ( let counter=1; counter < 20; counter+=2 ) {
 
 //from 1 to 16777216, but doubling each time (2,4,8,16...)
 
-for ( let counter=1; counter < 16777216; counter *= 2 ) { 
+/* for ( let counter=1; counter < 16777216; counter *= 2 ) { 
+
+    console.log(counter); 
+    
+    }  */
+
+    //from 111 to 138, in steps of 3  (meaning the second number 114 + (111+3)
+ /*    for ( let counter=111; counter < 139; counter += 3 ) { 
+
+        console.log(counter); 
+        
+        }  */
+
+//from 100 down to 0 in steps of 10 
+
+for ( let counter=100; counter < 0; counter -= 10 ) { 
 
     console.log(counter); 
     
