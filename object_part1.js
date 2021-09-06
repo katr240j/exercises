@@ -23,7 +23,7 @@
 
  */
 
-    //slide 9 - 
+    //slide 9 - 10
 
     const person1 = { 
         firstName : "Peter", 
